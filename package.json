@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "noctalionluncher",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Noctalion",
+  "description": "Launcher De Noctalion",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et HITABRAIN",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/HITABRAIN/Noctalion",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/HITABRAIN/Noctalion/issues"
   },
   "private": true,
   "main": "index.js",
